@@ -28,7 +28,7 @@ A passionate Tester from Turkiye.
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" target="_blank">
 
-<img src="https://camo.githubusercontent.com/d633841ff0b9983621d9473b3d09c10bc6f920380c04c4bc8a648acc5ccd33fb/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a6e696768746861776b31393636" alt=":nighthawk1966" data-canonical-src="https://count.getloli.com/get/@:nighthawk1966" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/d633841ff0b9983621d9473b3d09c10bc6f920380c04c4bc8a648acc5ccd33fb/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a6e696768746861776b31393636" alt=":ilknurnese" data-canonical-src="https://count.getloli.com/get/@:ilknurnese" style="max-width: 100%;">
 
         
 <!--
