@@ -28,7 +28,7 @@ A passionate Tester from Turkiye.
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" target="_blank">
         
-
+<!--
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/094599b6dfd2d45444655752387fdc2514a97b3f10e87562c093d224cd91f551/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616e7a656c6b6172616167616326267374796c653d706c6173746963732626636f6c6f723d79656c6c6f77"><img src="https://camo.githubusercontent.com/094599b6dfd2d45444655752387fdc2514a97b3f10e87562c093d224cd91f551/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68616e7a656c6b6172616167616326267374796c653d706c6173746963732626636f6c6f723d79656c6c6f77" align="right" data-canonical-src="https://komarev.com/ghpvc/?username=hanzelkaraagac&amp;&amp;style=plastics&amp;&amp;color=yellow" style="max-width: 100%;"></a> </p>
 
 
