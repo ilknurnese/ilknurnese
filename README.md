@@ -1,28 +1,60 @@
-## Hi there 👋 I am Neşe.
+# Hi, I'm Neşe 👋
 
-A passionate Tester from Turkiye.
+I'm a **Software Test Engineer** specializing in **test automation**, **API testing**, and **performance testing**. With a focus on improving software quality, I leverage tools like **Selenium**, **Postman**, **Rest Assured**, and **Jenkins** for continuous integration to build reliable testing pipelines.
 
-🔭 I’m currently working on: Automation testing with Java, Selenium WebDriver, and TestNG.
+### Skills & Technologies:
+- **Testing Tools**: Selenium WebDriver, TestNG, Cucumber, Rest Assured, Apache JMeter, Postman
+- **Programming Languages**: Java, JavaScript, C#
+- **CI/CD Tools**: Jenkins, GitHub Actions
+- **Version Control**: Git, GitHub
+- **Database Testing**: MySQL, SQL Server, JDBC
+- **Agile Testing**: Scrum, TDD, BDD
+- **Cloud**: AWS, Azure (basic knowledge)
+  
+### Current Work:
+I'm currently focused on **automating tests** for web and mobile platforms using **Selenium WebDriver**, **Cucumber**, **TestNG**, and **Postman**. I'm also exploring **Jenkins CI/CD pipelines** to improve the development lifecycle and reduce manual testing time.
 
-🌱 I’m currently learning: Parallel testing, Page Object Model, and DataProvider in TestNG.
+### Let's Connect:
+- GitHub: [My GitHub URL](https://github.com/ilknurnese)
+- LinkedIn: <a href="https://linkedin.com/in/ilknurnese" rel="nofollow"><img src="https://camo.githubusercontent.com/652ba59693129d3baeb159e15a71efad78721898ee268e495fdbd1c32d017362/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
 
-👯 I’m looking to collaborate on: Test automation projects, particularly in e-commerce platforms.
+Feel free to check out my repositories, collaborate, or ask any questions related to **automation testing** and **quality assurance**!
 
-🤔 I’m looking for help with: Improving my test automation skills and debugging issues in automation frameworks.
 
-💬 Ask me about: GitHub integration, Selenium WebDriver, TestNG, and JUnit for testing.
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84e0999fa027dedfb31a169d54da33fd98f9691c0b3aba4687a0e0a64cede44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/84e0999fa027dedfb31a169d54da33fd98f9691c0b3aba4687a0e0a64cede44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cfd93afae2e23a0768b3632b29f11ca4a0629ae6b6eb1d926abd1a1bafb46109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368652532304d6176656e2d4337314133363f7374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652532304d6176656e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/cfd93afae2e23a0768b3632b29f11ca4a0629ae6b6eb1d926abd1a1bafb46109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368652532304d6176656e2d4337314133363f7374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652532304d6176656e266c6f676f436f6c6f723d7768697465" alt="Apache Maven" data-canonical-src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&amp;logo=Apache%20Maven&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4430edf6657891559e56ba63ee2a2c67aae1a6381a9adccb85d4dc8f4fb785ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4430edf6657891559e56ba63ee2a2c67aae1a6381a9adccb85d4dc8f4fb785ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465" alt="IntelliJ IDEA" data-canonical-src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/678aca498f73e31c2164e846e1b7c164ec01ed0897f383d243248816d70aaf2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73656c656e69756d2d253433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/678aca498f73e31c2164e846e1b7c164ec01ed0897f383d243248816d70aaf2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73656c656e69756d2d253433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465" alt="Selenium" data-canonical-src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/64b07f098af0d5cab6d5733d0052ef1980ad5b4af36509b8819e06e6eae734c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d2532333243353236332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/64b07f098af0d5cab6d5733d0052ef1980ad5b4af36509b8819e06e6eae734c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d2532333243353236332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" alt="Jenkins" data-canonical-src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f55e1d06c1cf523db63cf3b0cdf4c18f7e2135a42fdfd6fa556ccf800e21d2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4f55e1d06c1cf523db63cf3b0cdf4c18f7e2135a42fdfd6fa556ccf800e21d2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" alt="Jira" data-canonical-src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&amp;logo=jira&amp;logoColor=white" style="max-width: 100%;"></a>
+
+</p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9225dd899c4c5a669649905116e104820b21cbf6453eb0f0185b6ddbb751696e/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e73656c656e69756d68712e73656c656e69756d2f73656c656e69756d2d6a6176613f76657273696f6e5375666669783d342e31312e30266c6162656c3d53656c656e69756d"><img src="https://camo.githubusercontent.com/9225dd899c4c5a669649905116e104820b21cbf6453eb0f0185b6ddbb751696e/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e73656c656e69756d68712e73656c656e69756d2f73656c656e69756d2d6a6176613f76657273696f6e5375666669783d342e31312e30266c6162656c3d53656c656e69756d" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java?versionSuffix=4.11.0&amp;label=Selenium" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83e852dbdd71644861229bcdf9f81fc410409b28149fca2eb45c07855364f1cd/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f696f2e637563756d6265722f637563756d6265722d6a6176613f76657273696f6e5375666669783d372e392e30266c6162656c3d437563756d626572"><img src="https://camo.githubusercontent.com/83e852dbdd71644861229bcdf9f81fc410409b28149fca2eb45c07855364f1cd/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f696f2e637563756d6265722f637563756d6265722d6a6176613f76657273696f6e5375666669783d372e392e30266c6162656c3d437563756d626572" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/io.cucumber/cucumber-java?versionSuffix=7.9.0&amp;label=Cucumber" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd8b9d8bd69e27a72be76e05a254921a6c5a5fb168e50382eaa1011c5fc0860a/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e746573746e672f746573746e673f76657273696f6e5375666669783d372e372e30266c6162656c3d546573744e47"><img src="https://camo.githubusercontent.com/bd8b9d8bd69e27a72be76e05a254921a6c5a5fb168e50382eaa1011c5fc0860a/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e746573746e672f746573746e673f76657273696f6e5375666669783d372e372e30266c6162656c3d546573744e47" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/org.testng/testng?versionSuffix=7.7.0&amp;label=TestNG" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c69605ccb18c6194487fd2f1eb3f11720f215a47021acbb92ae3e0a2e01d504b/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e736c66346a2f736c66346a2d6170693f76657273696f6e5375666669783d312e382e302d6265746132266c6162656c3d536c66346a"><img src="https://camo.githubusercontent.com/c69605ccb18c6194487fd2f1eb3f11720f215a47021acbb92ae3e0a2e01d504b/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e736c66346a2f736c66346a2d6170693f76657273696f6e5375666669783d312e382e302d6265746132266c6162656c3d536c66346a" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/org.slf4j/slf4j-api?versionSuffix=1.8.0-beta2&amp;label=Slf4j" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f3c398d4c0080ff0842627b0e26140314e493260a55fdc67caafe60468986b4/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e6170616368652e636f6d6d6f6e732f636f6d6d6f6e732d6c616e67333f76657273696f6e5375666669783d332e31322e30266c6162656c3d417061636865253230436f6d6d6f6e73"><img src="https://camo.githubusercontent.com/2f3c398d4c0080ff0842627b0e26140314e493260a55fdc67caafe60468986b4/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f6f72672e6170616368652e636f6d6d6f6e732f636f6d6d6f6e732d6c616e67333f76657273696f6e5375666669783d332e31322e30266c6162656c3d417061636865253230436f6d6d6f6e73" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/org.apache.commons/commons-lang3?versionSuffix=3.12.0&amp;label=Apache%20Commons" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4b7741e5d3752b3181f08bbac1b59a27eb7856c505edd24123b27fd176a7d016/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f746563682e6772617373686f707065722f657874656e747265706f7274732d637563756d626572372d616461707465723f76657273696f6e5375666669783d312e392e32266c6162656c3d47726173686f70706572"><img src="https://camo.githubusercontent.com/4b7741e5d3752b3181f08bbac1b59a27eb7856c505edd24123b27fd176a7d016/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f746563682e6772617373686f707065722f657874656e747265706f7274732d637563756d626572372d616461707465723f76657273696f6e5375666669783d312e392e32266c6162656c3d47726173686f70706572" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/tech.grasshopper/extentreports-cucumber7-adapter?versionSuffix=1.9.2&amp;label=Grashopper" style="max-width: 100%;"></a></p>
+
+🔭 I’m currently working on: Automation testing with Java, Selenium WebDriver, TestNG, Cucumber, Postman, Rest Assured, Jenkins, and Apache POI.
+
+🌱 I’m currently learning: Parallel testing, Page Object Model, DataProvider in TestNG, and Gherkin for writing more efficient BDD scenarios.
+
+👯 I’m looking to collaborate on: Test automation projects, particularly in e-commerce platforms, improving efficiency and scalability of automated tests, and exploring new automation frameworks.
+
+🤔 I’m looking for help with: Improving my test automation skills, debugging issues in automation frameworks, optimizing Jenkins pipelines, and learning advanced techniques for API Testing using Postman and Rest Assured.
+
+💬 Ask me about: GitHub integration, Selenium WebDriver, TestNG, JUnit, API Testing with Postman, BDD with Cucumber, Apache POI for data-driven testing, and Jenkins for continuous integration and delivery.
 
 📫 How to reach me: ilknurnese@gmail.com
-
-😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy discovering ways to optimize testing for complex systems.
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
-
-
-
 
 <p align="center" dir="auto">
       <animated-image data-catalyst="">
@@ -37,10 +69,13 @@ A passionate Tester from Turkiye.
 </p>
 -->
 
+
+<img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
 <p align="center"><img src="https://count.getloli.com/get/@:ilknurnese" alt=":ilknurnese" /></p>
         
 <!--
-
+<img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 <!--
 **ilknurnese/ilknurnese** is a ✨ _special_ ✨ repository 
 -->
