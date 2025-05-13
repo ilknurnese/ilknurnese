@@ -1,13 +1,13 @@
 # Hi, I'm Neşe 👋
 
-I'm a **Software Test Engineer** specializing in **test automation**, **API testing**, and **performance testing**. With a focus on improving software quality, I leverage tools like **Selenium**, **Postman**, **Rest Assured**, and **Jenkins** for continuous integration to build reliable testing pipelines.
+I'm an ISTQB-certified Software Test Engineer specialising in test automation, API testing, and performance testing. With a focus on improving software quality, I leverage tools like Selenium, Postman, Rest Assured, and Jenkins for continuous integration to build reliable testing pipelines.
 
 ### Skills & Technologies:
 - **Testing Tools**: Selenium WebDriver, TestNG, Cucumber, Rest Assured, Apache JMeter, Postman
-- **Programming Languages**: Java, JavaScript, C#
+- **Programming Languages**: Java, Python, C#
 - **CI/CD Tools**: Jenkins, GitHub Actions
 - **Version Control**: Git, GitHub
-- **Database Testing**: MySQL, SQL Server, JDBC
+- **Database Testing**: MySQL, MSSQL, SQL Server, JDBC
 - **Agile Testing**: Scrum, TDD, BDD
 - **Cloud**: AWS, Azure (basic knowledge)
   
@@ -46,13 +46,13 @@ Feel free to check out my repositories, collaborate, or ask any questions relate
 
 👯 I’m looking to collaborate on: Test automation projects, particularly in e-commerce platforms, improving efficiency and scalability of automated tests, and exploring new automation frameworks.
 
-🤔 I’m looking for help with: Improving my test automation skills, debugging issues in automation frameworks, optimizing Jenkins pipelines, and learning advanced techniques for API Testing using Postman and Rest Assured.
+🤔 I’m looking for help with: Improving my test automation skills, debugging issues in automation frameworks, optimising Jenkins pipelines, and learning advanced techniques for API Testing using Postman and Rest Assured.
 
 💬 Ask me about: GitHub integration, Selenium WebDriver, TestNG, JUnit, API Testing with Postman, BDD with Cucumber, Apache POI for data-driven testing, and Jenkins for continuous integration and delivery.
 
 📫 How to reach me: ilknurnese@gmail.com
 
-⚡ Fun fact: I enjoy discovering ways to optimize testing for complex systems.
+⚡ Fun fact: I enjoy discovering ways to optimise testing for complex systems.
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
